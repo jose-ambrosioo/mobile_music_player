@@ -7,12 +7,12 @@ Developed with a focus on user experience, the app incorporates efficient media 
 
 
 ## Copy to Clipboard Example
-
 Installation
-
 ```plaintext
 [![Copy to Clipboard]yarn install
 
+## Copy to Clipboard Example
 Run IOS
+```plaintext
 [![Copy to Clipboard]npx expo run:ios
 
