@@ -7,14 +7,12 @@ Developed with a focus on user experience, the app incorporates efficient media 
 
 ![image](https://github.com/jose-ambrosioo/mobile_music_player/assets/59221796/d0d57663-f44c-4e9a-854f-8784d026b94b)
 
+**Installation and Run IOS**
 ```markdown
 **Installation**
-```plaintext
 yarn install
 
-```markdown
-## Copy to Clipboard Example
 **Run IOS**
-```plaintext
 npx expo run:ios
 
+```plaintext
