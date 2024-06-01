@@ -14,5 +14,3 @@ yarn install
 
 **Run IOS**
 npx expo run:ios
-
-```plaintext
