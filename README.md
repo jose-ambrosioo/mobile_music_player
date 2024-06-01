@@ -6,7 +6,11 @@ This mobile music player app enables users to play, pause, seek, and skip tracks
 Developed with a focus on user experience, the app incorporates efficient media handling and a responsive interface. 
 
 
+## Copy to Clipboard Example
+
 Installation
+
+```plaintext
 [![Copy to Clipboard]yarn install
 
 Run IOS
