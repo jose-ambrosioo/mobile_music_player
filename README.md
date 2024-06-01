@@ -7,10 +7,8 @@ Developed with a focus on user experience, the app incorporates efficient media 
 
 
 Installation
-######
-<tab><tab>yarn install
+[![Copy to Clipboard]yarn install
 
 Run IOS
-######
-<tab><tab>npx expo run:ios
+[![Copy to Clipboard]npx expo run:ios
 
